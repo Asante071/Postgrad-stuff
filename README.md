@@ -1,13 +1,13 @@
-# Postgrad-stuff
-a space of innovation and great ideas
+# Word Document Question Answering System
+
+This project implements a Question Answering system using Rust and the Burn deep learning framework.
+
+The system reads Word calendar documents and allows users to ask questions about their content.
 
 ## How to Run
 
-Build project:
 cargo build
 
-Train model:
 cargo run -- train
 
-Ask questions:
 cargo run -- ask "Your question here"
