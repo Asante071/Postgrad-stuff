@@ -1,4 +1,4 @@
-# Study Timer CLI
+# Study Timer CLI (Assignment 2)
 
 ## Project Description
 
